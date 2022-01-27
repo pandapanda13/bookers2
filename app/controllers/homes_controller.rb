@@ -3,6 +3,6 @@ class HomesController < ApplicationController
     @books = Book.all
   end
 
-  def show
+  def about
   end
 end

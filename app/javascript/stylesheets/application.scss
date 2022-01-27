@@ -24,9 +24,30 @@
     margin-left: -15px;
 }
 
+header {
+  margin-bottom: 30px;
+}
+
+
 .container {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
 }
+
+#notice {
+  color: green;
+}
+
+.error_message {
+  color: red;
+}
+
+.btn {
+  white-space: nowrap;
+}
+
+
+
+
