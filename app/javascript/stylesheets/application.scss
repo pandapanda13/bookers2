@@ -7,6 +7,14 @@
   box-sizing: border-box;
 }
 
+.mx-auto {
+  margin-left: auto;
+}
+
+.actions {
+  margin-top: 15px;
+}
+
 .fa, .fas {
   font-family: 'Font Awesome 5 Free';
   font-weight: 600;
@@ -41,6 +49,10 @@ header {
 }
 
 .error_message {
+  color: red;
+}
+
+#error_explanation {
   color: red;
 }
 
